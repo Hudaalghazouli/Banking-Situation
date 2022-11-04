@@ -1,6 +1,6 @@
 # Unit 3: Introduction to Python
 
-## Overview:
+## Overview
 
 This week, you will be introduced to the Python programming language. You will learn how to store and manipulate data, read and write data to files, and translate problem-solving logic into Python implementations.
 
